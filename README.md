@@ -5,7 +5,6 @@ Project ini bertujuan untuk memprediksi gangguan tidur (Sleep Disorder) pada res
 
 - Insomnia
 - Sleep Apnea
-- None (tidak ada gangguan tidur)
 
 Dengan memanfaatkan algoritma machine learning seperti **Random Forest**, **Support Vector Machine (SVM)**, **K-Nearest Neighbors (KNN)**, **Naive Bayes**, dan **Decision Tree**, project ini berupaya membandingkan performa model dalam mengidentifikasi pola yang berhubungan dengan kualitas tidur.
 
