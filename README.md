@@ -15,7 +15,7 @@ Dengan memanfaatkan algoritma machine learning seperti **Random Forest**, **Supp
 
 ### 📑 Sumber Data
 Dataset diperoleh dari Kaggle:  
-🔗 [Mental Health and Lifestyle Habits (2019-2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024/data)
+🔗 [Sleep Disorder Diagnosis Dataset](https://www.kaggle.com/datasets/mdsultanulislamovi/sleep-disorder-diagnosis-dataset/data)  
 
 ### 📊 Keterangan Data
 Beberapa variabel utama yang digunakan:
