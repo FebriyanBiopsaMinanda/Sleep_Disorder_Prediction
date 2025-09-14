@@ -91,19 +91,3 @@ Evaluasi model dilakukan dengan **Confusion Matrix** dan **Classification Report
 Random Forest dipilih sebagai model utama karena akurasi tertinggi, performa seimbang, dan kemampuan menangkap pola non-linear antar fitur.
 
 ---
-
-## 🧩 Prediction
-
-### Data Person ID = 17
-
-| Field                     | Value           |
-|----------------------------|----------------|
-| Person ID                  | 17             |
-| Gender                     | Female         |
-| Age                        | 29             |
-| Occupation                 | Nurse          |
-| Sleep Duration             | 6.5            |
-| Quality of Sleep           | 5              |
-| Physical Activity Level    | 40             |
-| Stress Level               | 7              |
-| BMI Category
